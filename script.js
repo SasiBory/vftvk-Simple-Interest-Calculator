@@ -1,3 +1,8 @@
+function alerta(){
+    p = document.getElementById("principal").value;
+    if (p <= 0) { alert( "Enter a positive number")}
+}
+
 function compute()
 {
 var principal = document.getElementById("principal").value;
