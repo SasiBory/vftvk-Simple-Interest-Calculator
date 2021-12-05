@@ -1,6 +1,3 @@
-.error {
-    color: red;
-  }
 
 body {
     background-color:black; 
@@ -27,7 +24,20 @@ h1{
     padding-left: 80px;
 }
 
-.align{
-    align-items: center;
+.resalt{
+    background-color: #ffff00;  
+}
+
+#principal{
+    width: 150px;
+    margin-left: 58px;
+}
+
+#rate{
+    margin-left: 20px;
+}
+
+#years{
+    margin-left: 28px;
 }
 
